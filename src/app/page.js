@@ -14,5 +14,5 @@ export default function Home() {
         Get Started
       </button>
     </div>
-  );
+  )
 }
