@@ -8,7 +8,7 @@ import Posts from "./components/posts";
 
 export default function Home() {
   const router = useRouter();
-  const isLoggedIn = true;
+  const isLoggedIn = false;
 
   return (
     <div>
